@@ -5,24 +5,6 @@
     presents weather details, including temperature, weather condition, humidity, and wind speed. This documentation outlines the project's architecture, technologies used, and the functionality of each class within the application.
 </p>
 
-<p>
-    You can check out the full tutorial where I will guide and you and explain the steps in this YouTube video: <a href="https://www.youtube.com/watch?v=8ZcEYv2ezWc">link</a>
-</p>
-
-<p align="center">
-    <img src="https://github.com/curadProgrammer/WeatherAppGUI-Java/blob/main/Screenshot_15.png?raw=true" align="center">
-</p>
-
-<h2>Technologies Used</h2>
-<p>
-    The Weather App utilizes the following technologies and libraries:
-</p>
-<ul>
-  <li>Java 18</li>
-  <li><a href="https://code.google.com/archive/p/json-simple/downloads">JSON Simple</a> - Used to parse and read through JSON data</li>
-  <li><a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.net/java/net/HttpURLConnection.html">HTTPURLConnection</a>: Java's built-in library for making HTTP requests to fetch data from external APIs.</li>
-</ul>
-
 <h2>Class Summaries</h2>
 
 <h3>3.1. AppLauncher</h3>
